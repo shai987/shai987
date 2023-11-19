@@ -88,5 +88,5 @@ Here are some ideas to get you started:
                                 width="40" height="40" />
                 </a>
         </p>
-
+        
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shai987&" alt="shai987" /></p>
